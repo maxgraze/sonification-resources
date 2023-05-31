@@ -40,3 +40,11 @@ Feel free to use existing members as a template for adding information about you
 - **Interests:** sonification + musical form, storytelling with sound, multi-sensory data experiences
 - **Ask me for help or tips on:** sonic variables, music theory, sonification with Logic
 - **Find me on:** [Email](mailto:miriamquick@gmail.com), [Instagram](https://www.instagram.com/miriam_quick/), [Twitter](https://twitter.com/miriamquick)
+
+### Max Graze
+- *data designer*
+- **Location:** Berlin, Germany
+- **Website:** datagrazing.com
+- **Interests:** multi-sensory data experiences, language learning, fermentation
+- **Ask me for help or tips on:** data representations, data visualization engineering
+- **Find me on:** [Email](mailto:maxene.graze@gmail.com), [Instagram](https://www.instagram.com/datagrazing/), [Newsletter](http://buttondown.email/datathesenses), [Mastodon](https://vis.social/@datagrazing),
